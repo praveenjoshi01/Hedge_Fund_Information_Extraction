@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Northern Trust</title>
+<style>
+
+body { 
+	font-family: arial, helvetica, sans-serif; 
+	margin: 0;
+	padding: 0;
+	color: #3D4042;
+	padding-bottom: 64px;
+}
+
+header { 
+	text-align: center; 
+	padding: 32px 0;
+}
+
+section {
+	display: inline-block;
+	margin-top: 64px;
+	width: 80%;
+	text-align: left;
+	padding: 0 40px;
+}
+
+h1 { 
+	font-size: 36px;
+	line-height: 44px;
+	margin-bottom: 24px;
+}
+
+h2 {
+	border-bottom: 1px solid #B1B1B1;
+	padding-bottom: 16px;
+	margin-top: 0;
+}
+
+h3 {
+	font-size: 20px;
+	line-height: 26px;
+}
+
+h4 {
+	font-size: 15px;
+	line-height: 20px;
+	color: #115740;
+	text-transform: uppercase;
+	font-weight: 400;
+	letter-spacing: 0.1em;
+}
+
+a {
+	color: #0A7A82;
+	text-decoration: none;
+}
+
+	a:hover {
+		text-decoration: underline;
+		color: #085459;
+	}
+
+.container { 
+	max-width: 1000px;
+	margin: auto;
+	padding: 0;
+	text-align: center;
+}
+
+.hero { 
+	background: #115740; 
+	color: #fff;
+	padding: 64px 0;
+	text-align: center; 
+}
+	
+	.hero p {
+		font-size: 18px;
+		font-weight: 700;
+	}
+
+</style>
+
+  <script>!function(){function o(n,i){if(n&&i)for(var r in i)i.hasOwnProperty(r)&&(void 0===n[r]?n[r]=i[r]:n[r].constructor===Object&&i[r].constructor===Object?o(n[r],i[r]):n[r]=i[r])}try{var n=decodeURIComponent("");if(n.length>0&&window.JSON&&"function"==typeof window.JSON.parse){var i=JSON.parse(n);void 0!==window.BOOMR_config?o(window.BOOMR_config,i):window.BOOMR_config=i}}catch(r){window.console&&"function"==typeof window.console.error&&console.error("mPulse: Could not parse configuration",r)}}();</script>
+  <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,o,r,O=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);O.src="javascript:void(0)",O.title="",O.role="presentation",(O.frameElement||O).style.cssText="width:0;height:0;border:0;display:none;",r=document.getElementsByTagName("script")[0],r.parentNode.insertBefore(O,r);try{o=O.contentWindow.document}catch(_){i=document.domain,O.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",o=O.contentWindow.document}o.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"EMQNU-FQJHX-UGZWD-XGGMN-QBLZ2",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},o.write("<bo"+'dy onload="document._l();">'),o.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="kywywgqxfdki2xmwb2uq-f-a1944e3f7-clientnsv4-s.akamaihd.net",i={"ak.v":23,"ak.cp":"840599","ak.ai":parseInt("535771",10),"ak.ol":"0","ak.cr":15,"ak.ipv":4,"ak.proto":"","ak.rid":"13d816c5","ak.r":24067,"ak.a2":e,"ak.m":"","ak.n":"essl","ak.bpcip":"86.45.139.0","ak.cport":56448,"ak.gh":"88.221.222.138","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"fast","ak.t":"1570115241"};if(""!==t)i["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+<body>
+<header>
+<svg width="127px" height="112px" viewBox="0 0 127 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Northern Trust Logo</title>
+    <desc></desc>
+    <defs>
+        <path d="M56.698703,22.649679 L56.549692,22.500668 L56.549692,37.5507836 L59.6044184,37.5507836 L59.6044184,40.2329824 L50.8127667,40.2329824 L50.8127667,37.5507836 L53.8674932,37.5507836 L53.8674932,19.9674802 L50.8127667,19.9674802 L50.8127667,17.3597869 L55.8791423,17.3597869 L74.0584899,40.2329824 L70.6312358,40.2329824 L56.698703,22.649679 Z M76.8151942,17.3597869 L76.8151942,19.9674802 L73.7604678,19.9674802 L73.7604678,30.3237479 L71.078269,30.3237479 L71.078269,19.9674802 L67.949037,19.9674802 L67.949037,17.3597869 L76.8151942,17.3597869 Z M68.3215646,8.94066276 L79.2738765,8.94066276 L79.2738765,11.6228616 L64.819805,11.6228616 L64.819805,23.7672618 L62.1376062,20.4145133 L62.1376062,11.6228616 L47.6835347,11.6228616 L47.6835347,8.94066276 L58.6358466,8.94066276 L58.5613411,8.86615724 C57.9652969,7.89758544 57.6672748,6.85450812 57.6672748,5.8114308 C57.6672748,2.60769331 60.2749681,-2.13162821e-14 63.4787056,-2.13162821e-14 C66.6824431,-2.13162821e-14 69.2901364,2.60769331 69.2901364,5.8114308 C69.2901364,6.92901364 68.9921143,7.97209096 68.3960701,8.86615724 L68.3215646,8.94066276 Z M63.4787056,8.94066276 C65.1923327,8.94066276 66.6079376,7.52505783 66.6079376,5.8114308 C66.6079376,4.09780377 65.1923327,2.68219883 63.4787056,2.68219883 C61.7650786,2.68219883 60.3494737,4.09780377 60.3494737,5.8114308 C60.3494737,7.52505783 61.7650786,8.94066276 63.4787056,8.94066276 Z M82.477614,32.7824301 L85.3088239,30.3237479 L85.3088239,30.770781 C85.3088239,34.7195737 84.191241,38.5938609 82.1050864,42.021115 C80.0189317,45.3738635 77.1132163,48.1305679 73.6114568,49.993206 L63.5532111,58.8593632 L53.4949655,49.993206 C49.993206,48.2050734 47.0874906,45.448369 45.0013359,42.0956205 C42.9151813,38.6683665 41.7975984,34.7195737 41.7975984,30.770781 L41.7975984,30.3237479 L44.4797972,32.7824301 C44.9268304,36.8802339 46.6404574,40.7545211 49.4716673,43.8092475 C52.8244158,47.3855126 57.2202417,49.4716673 62.0631007,49.8441949 L62.1376062,49.8441949 L62.1376062,34.4215516 L64.819805,37.7743002 L64.819805,49.8441949 L64.8943106,49.8441949 C69.7371696,49.4716673 74.2075009,47.3110071 77.485744,43.8092475 C80.3169538,40.7545211 82.0305809,36.8802339 82.477614,32.7824301 Z M63.4787056,55.3576036 L67.0549707,52.1538661 L66.8314542,52.1538661 C65.7138713,52.3773827 64.5962885,52.4518882 63.4787056,52.4518882 C62.3611228,52.4518882 61.2435399,52.3028772 60.1259571,52.1538661 L59.9024405,52.1538661 L63.4787056,55.3576036 Z M25.5553944,99.2413567 L25.5553944,96.9316855 L37.4762781,96.9316855 L37.4762781,99.2413567 L32.7824301,99.2413567 L32.7824301,111.460262 L30.2492423,111.460262 L30.2492423,99.2413567 L25.5553944,99.2413567 Z M46.3424353,87.8420117 C44.1817752,87.8420117 43.1386978,87.2459675 41.6485874,85.1598128 C41.6485874,85.1598128 40.8290266,83.8187134 40.5310045,83.2971747 C40.2329824,82.7756361 40.0094659,82.4031085 39.8604548,82.3286029 L36.9547394,82.3286029 L36.9547394,87.6930006 L34.4960572,87.6930006 L34.4960572,73.1644236 L34.5705627,73.1644236 L37.9233112,73.1644236 L41.2760598,73.1644236 C44.7778193,73.1644236 46.4169408,75.4740948 46.4169408,77.783766 C46.4169408,80.0934373 45.0013359,81.5835477 42.7661702,82.0305809 C42.9151813,82.4031085 44.2562807,84.3402521 44.2562807,84.3402521 C44.9268304,85.3833294 45.6718856,85.755857 46.5659519,85.755857 L47.5345237,85.755857 L47.5345237,87.8420117 L46.3424353,87.8420117 Z M36.9547394,80.0934373 L36.9547394,80.1679428 L41.2015542,80.1679428 C43.1386978,80.1679428 43.8092475,79.0503599 43.8092475,77.8582716 C43.8092475,76.5916777 42.9896868,75.4740948 41.2015542,75.4740948 L36.9547394,75.4740948 L36.9547394,80.0934373 Z M109.821141,87.8420117 C107.734986,87.8420117 106.617403,87.2459675 105.127293,85.1598128 C105.127293,85.1598128 104.307732,83.8187134 104.00971,83.2971747 C103.711688,82.7756361 103.488171,82.4031085 103.33916,82.3286029 L100.433445,82.3286029 L100.433445,87.6930006 L97.9747628,87.6930006 L97.9747628,73.1644236 L98.0492683,73.1644236 L101.402017,73.1644236 L104.754765,73.1644236 C108.256525,73.1644236 109.895646,75.4740948 109.895646,77.783766 C109.895646,80.0934373 108.480042,81.5835477 106.244876,82.0305809 C106.393887,82.4031085 107.734986,84.3402521 107.734986,84.3402521 C108.405536,85.3833294 109.150591,85.755857 110.044658,85.755857 L111.013229,85.755857 L111.013229,87.8420117 L109.821141,87.8420117 Z M100.507951,80.0934373 L100.507951,80.1679428 L104.68026,80.1679428 C106.691909,80.1679428 107.362459,79.0503599 107.362459,77.8582716 C107.362459,76.5916777 106.542898,75.4740948 104.754765,75.4740948 L100.507951,75.4740948 L100.507951,80.0934373 Z M53.1224379,111.609273 C50.9617778,111.609273 49.9187004,111.013229 48.42859,108.927075 C48.42859,108.927075 47.6090292,107.585975 47.3110071,107.064437 C47.012985,106.542898 46.7894685,106.17037 46.6404574,106.095865 L43.734742,106.095865 L43.734742,111.460262 L41.2760598,111.460262 L41.2760598,96.9316855 L41.3505653,96.9316855 L44.7033138,96.9316855 L48.0560624,96.9316855 C51.5578219,96.9316855 53.1969434,99.2413567 53.1969434,101.551028 C53.1969434,103.860699 51.7813385,105.35081 49.5461728,105.797843 C49.6951839,106.17037 51.0362833,108.107514 51.0362833,108.107514 C51.706833,109.150591 52.4518882,109.523119 53.3459545,109.523119 L54.3145263,109.523119 L54.3145263,111.609273 L53.1224379,111.609273 Z M43.734742,103.860699 L47.9815568,103.935205 C49.9187004,103.935205 50.5892501,102.817622 50.5892501,101.625533 C50.5892501,100.35894 49.7696894,99.2413567 47.9815568,99.2413567 L43.734742,99.2413567 L43.734742,103.860699 Z M67.0549707,105.425315 L67.0549707,96.9316855 L69.513653,96.9316855 L69.513653,105.425315 C69.513653,109.299602 67.1294762,111.758285 63.4787056,111.758285 L63.1806835,111.758285 C59.5299129,111.609273 57.1457362,109.150591 57.1457362,105.425315 L57.1457362,96.9316855 L59.6044184,96.9316855 L59.6044184,105.425315 C59.6044184,107.883997 60.9455178,109.374108 63.1806835,109.448613 L63.4042001,109.448613 C65.6393658,109.448613 67.0549707,107.883997 67.0549707,105.425315 Z M79.2738765,102.743116 C82.3286029,103.190149 85.1598128,104.00971 85.0853073,107.213448 C85.0853073,110.566196 81.9560753,111.758285 79.0503599,111.758285 C75.9956335,111.758285 73.9839844,110.715207 72.791896,108.480042 L72.7173905,108.405536 L74.5800286,107.138942 L74.6545341,107.213448 C75.8466224,109.225097 77.9327771,109.523119 79.0503599,109.523119 C79.8699207,109.523119 82.5521195,109.299602 82.5521195,107.213448 C82.5521195,106.021359 81.5090422,105.276304 78.9758544,104.978282 C76.2191501,104.605754 73.3134347,103.935205 73.3134347,100.731467 C73.3134347,99.6883898 73.6859623,98.7943235 74.356512,98.1237738 C75.3250838,97.155202 77.0387108,96.5591578 78.9013489,96.5591578 C81.5090422,96.5591578 83.2971747,97.3787186 84.3402521,99.0178401 L84.4147576,99.0923456 L82.5521195,100.35894 L82.477614,100.284434 C81.8815698,99.3158622 80.5404704,98.719818 79.0503599,98.719818 C77.1132163,98.719818 75.8466224,99.5393788 75.8466224,100.805973 C75.8466224,101.998061 77.1877219,102.445094 79.2738765,102.743116 Z M87.9165172,99.2413567 L87.9165172,96.9316855 L99.7628953,96.9316855 L99.7628953,99.2413567 L95.1435529,99.2413567 L95.1435529,111.460262 L92.6103651,111.460262 L92.6103651,99.2413567 L87.9165172,99.2413567 Z M9.90923456,83.2226692 L9.90923456,73.1644236 L12.3679168,73.1644236 L12.3679168,87.6930006 L10.5052787,87.6930006 L2.53318778,77.783766 L2.53318778,87.6930006 L1.42108547e-14,87.6930006 L1.42108547e-14,73.1644236 L1.9371436,73.1644236 L1.9371436,73.2389291 L9.90923456,83.2226692 Z M61.2435399,73.1644236 L61.2435399,75.4740948 L56.549692,75.4740948 L56.549692,87.6930006 L54.0910097,87.6930006 L54.0910097,75.4740948 L49.3971618,75.4740948 L49.3971618,73.1644236 L61.2435399,73.1644236 Z M67.5765094,81.7325588 L67.5765094,87.6930006 L65.0433216,87.6930006 L65.0433216,73.1644236 L67.5765094,73.1644236 L67.5765094,79.4228875 L74.9525562,79.4228875 L74.9525562,73.1644236 L77.4112384,73.1644236 L77.4112384,87.6930006 L74.9525562,87.6930006 L74.9525562,81.7325588 L67.5765094,81.7325588 Z M93.4299259,85.2343183 L93.4299259,87.6930006 L82.626625,87.6930006 L82.626625,73.1644236 L93.3554204,73.1644236 L93.3554204,75.6231059 L85.0853073,75.6231059 L85.0853073,79.2738765 L92.9828927,79.2738765 L92.9828927,81.5835477 L85.0853073,81.5835477 L85.0853073,85.2343183 L93.4299259,85.2343183 Z M124.498729,73.1644236 L126.957411,73.1644236 L126.957411,87.6930006 L125.094773,87.6930006 L125.020268,87.6930006 L117.122682,77.783766 L117.122682,87.6930006 L114.589494,87.6930006 L114.589494,73.1644236 L116.526638,73.1644236 L116.526638,73.2389291 L124.498729,83.2226692 L124.498729,73.1644236 Z M23.3202287,72.940907 C27.492538,72.940907 30.9197921,76.2936556 30.8452865,80.4659649 C30.8452865,84.6382742 27.492538,87.9910227 23.3202287,87.9910227 C19.1479194,87.9910227 15.7951709,84.6382742 15.7951709,80.4659649 C15.7951709,76.2936556 19.1479194,72.940907 23.3202287,72.940907 Z M23.3202287,85.6813515 C26.2259441,85.6813515 28.6101208,83.3716803 28.5356153,80.4659649 C28.5356153,77.5602495 26.2259441,75.2505783 23.3202287,75.2505783 C20.4145133,75.2505783 18.1048421,77.5602495 18.1048421,80.4659649 C18.1048421,83.3716803 20.4145133,85.6813515 23.3202287,85.6813515 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-897.000000, -48.000000)">
+            <g id="Group" transform="translate(897.000000, 48.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#115840" xlink:href="#path-1"></use>
+                <rect id="ðŸŽ¨-Color" fill="#115740" mask="url(#mask-2)" x="0" y="0" width="127" height="112"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
+</header>
+
+<div class="hero">
+<h1>northerntrust.com is currently unavailable</h1>
+<p>Please use the following links to log in to your account, or for more information:</p>
+</div><!-- /.hero -->
+
+<div class="container">
+<section>
+	<h2>Private Passport and Wealth Passport</h2>
+	<h3>Private Passport and Wealth - US:</h3>
+	<p>888-635-5350</p>
+	<p>Available M-F: 7AM-9PM; Sat-Sun: 7AM-3:30PM CST</p>
+
+	<h3>Private Passport and Wealth - Outside of US:</h3>
+	<p>888-635-5350</p>
+	<p>312-557-5900</p>
+	<p>Available M-F: 7AM-9PM; Sat-Sun: 7AM-3:30PM CST</p>
+</section>
+
+<section>
+	<h2>Institutional Clients</h2>
+	<h3>Log In:</h3>
+	<p><a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__wwwptl04.ntrs.com_ecc_appmanager_iip_overview&d=DwMGaQ&c=96ZbZZcaMF4w0F4jpN6LZg&r=0rMII3oQFF06sxB49aB5PAf0C1RB-KO6R6FUPITvuaQ&m=YroaNzSGVfY9bjMC9OlV_NNzGYux2YPgExlmesmOWSY&s=4JtKuxOpzBM5B_Oe2dAOKlal-EZMi_iy8g9pJaQ3KhQ&e=">https://wwwptl04.ntrs.com/ecc/appmanager/iip/overview</a></p>
+	
+	<h3>Passport:</h3>
+	<p>North America - 1-800-727-7435 - Available 24/7</p>
+	<p>Europe, Middle East, Africa - +44(0) 207-982-3977 - Available 24/7</p>
+	<p>Asia Pacific - 1-312-630-0667 - Available 24/7</p>
+	<p>Australia - 1-800-785-624</p>
+	<p>Dublin - +353-1-542-2700</p>
+	<p>Guernsey - +44(0)-1481-745-185</p>
+	<p>Hong Kong - +800-903-793</p>
+	<p>Japan - +00531-650-562</p>
+	<p>Malaysia - +1 800-806-650</p>
+	<p>New Zealand - +0800-880-221</p>
+	<p>North China - +10-800-650-0638</p>
+	<p>Philippines - +1800-1651-0754</p>
+	<p>Singapore - +800-181-1119</p>
+	<p>South China - +10 800 265 2611</p>
+	
+	<h3>Email:</h3>
+	<p><a href="mailto:passhelp@ntrs.com">passhelp@ntrs.com</a></p>
+</section>
+
+<section>
+	<h2>Treasury Passport</h2>
+	<h3>Log In:</h3>
+	<p><a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www09810.ntrs.com_tms_common_index.html&d=DwMGaQ&c=96ZbZZcaMF4w0F4jpN6LZg&r=0rMII3oQFF06sxB49aB5PAf0C1RB-KO6R6FUPITvuaQ&m=YroaNzSGVfY9bjMC9OlV_NNzGYux2YPgExlmesmOWSY&s=rvYuonWO4PMERh2bMT9N-0YNgK3buspevt7BaF6pq1o&e=">https://www09810.ntrs.com/tms/common/index.html</a></p>
+	<p>+1-312-444-7783</p>
+</section>
+
+<section>
+	<h2>Securities Lending Passport</h2>
+	<h3>Log In:</h3>
+	<p><a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www3383.ntrs.com_slp&d=DwMGaQ&c=96ZbZZcaMF4w0F4jpN6LZg&r=0rMII3oQFF06sxB49aB5PAf0C1RB-KO6R6FUPITvuaQ&m=YroaNzSGVfY9bjMC9OlV_NNzGYux2YPgExlmesmOWSY&s=htTuHU7sIUOo1wPfBmk_rF-AR76aMYAvWmmiMOBrUds&e=">https://www3383.ntrs.com/slp</a></p>
+	<p>1-800-727-7435 - M-F 7:30AM-6PM CST</p>
+</section>
+
+<section>
+	<h2>Benefit Payment Services Center</h2>
+	<p>US - +1-866-252-5395</p>
+	<p>Canada - +1-800-711-1101</p>
+
+	<h3>External Clients:</h3>
+	<p><a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www21710.ntrs.com_bppsecure&d=DwMGaQ&c=96ZbZZcaMF4w0F4jpN6LZg&r=0rMII3oQFF06sxB49aB5PAf0C1RB-KO6R6FUPITvuaQ&m=YroaNzSGVfY9bjMC9OlV_NNzGYux2YPgExlmesmOWSY&s=AIgU4K7BYhvb9DmEWN9tFlNpBu6VQXQ8XHKV_BVCk4Q&e=">https://www21710.ntrs.com/bppsecure</a></p>
+	
+	<h3>External Participants:</h3>
+	<p><a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www21710.ntrs.com_bpp_public_login.jsp&d=DwMGaQ&c=96ZbZZcaMF4w0F4jpN6LZg&r=0rMII3oQFF06sxB49aB5PAf0C1RB-KO6R6FUPITvuaQ&m=YroaNzSGVfY9bjMC9OlV_NNzGYux2YPgExlmesmOWSY&s=130X5m8SPV1CmcoffvI86OA8Spzmt0GcBWFTmZGHWHA&e=">https://www21710.ntrs.com/bpp/public/login.jsp</a></p>
+</section>
+
+<section>
+	<h2>Foreign Exchange (FX) Passport</h2>
+	<h3>Log In:</h3>
+	<p><a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__fxpassport.ntrs.com&d=DwMGaQ&c=96ZbZZcaMF4w0F4jpN6LZg&r=0rMII3oQFF06sxB49aB5PAf0C1RB-KO6R6FUPITvuaQ&m=YroaNzSGVfY9bjMC9OlV_NNzGYux2YPgExlmesmOWSY&s=vjoS5EN1DYC_4KBQfEJrOd5DprVX04mx1WSPs2P3np0&e=">https://fxpassport.ntrs.com</a></p>
+	<p>Chicago - 1-312-444-7889</p>
+	<p>London - +44(0)-207-638-7944</p>
+	<p>Singapore - 65 6438 4588</p>
+</section>
+
+<section>
+	<h2>Hedge Fund Passport</h2>
+	<p>Chicago - 1-312-444-7889</p>
+	<p>London - +44(0) 20-7638-7944</p>
+	<p>Singapore - +65-6438-4588</p>
+</section>
+
+<section>
+	<h2>Personal Banking Assistance</h2>
+	<h3>Report a lost of stolen ATM/Debit Card:</h3>
+	<p>+1-888-298-6542
+
+	<h3>Order Checks:</h3>
+	<p>US and Canada - +1-888-635-5350</p>
+	<p>Outside US and Canada - +1-312-557-5900</p>
+</section>
+
+<section>
+	<h2>Benefits Payment Assistance</h2>
+	<h3>Pension payment and 401(k) distribution assistance:</h3>
+	<p>US - +1-866-252-5395</p>
+	<p>Canada - +1-800-711-1101</p>
+</section>
+
+<section>
+	<h2>Client Assistance</h2>
+	<h3>Personal/Individual Clients</h3>
+	<h4>Banking and wealth planning account questions:</h4>
+	<p>+1-866-876-9944</p>
+	<p>+1-312-630-0779</p>
+
+	<h4>Account assistance with Northern Funds mutual funds:</h4>
+	<p>+1-800-595-9111</p>
+	
+	<h4>Account assistance with FlexShares ETF funds:</h4>
+	<p>+1-855-353-9383</p>	
+
+	<h3>Institutional Investor Passport</h3>
+	<p>US Only - +1-800-727-7435</p>
+	<p>Asia Pacific - +1-312-630-0667</p>
+	<p>Europe, Middle East, and Africa - +44(0) 207-982-3977</p>
+	<p>Guernsey - +44(0)-1481-745-185</p>
+	<p>Dublin - +353-1-542-2700</p>
+	<p>Australia - +1-800-785-624</p>
+	<p>Hong Kong - +1-800-903-793</p>
+	<p>Japan - 00531-650-562</p>
+</section>
+
+<section>
+	<h2>Investor Relations</h2>
+	<h3>Shareholder or investor information</h3>
+	<p>Mark Bette, Director, Investor Relations - +1-312-444-2301</p>
+	<p>Kelly Lernihan, Investor Relations - +1-312-444-7214</p>
+</section>
+
+<section>
+	<h2>Media Relations</h2>
+	<h3>Press inquiries</h3>
+	<p>Kary Moyer (Americas) - +1-312-557-3975</p>
+	<p>Camilla Greene (Europe, Middle East, Africa, Asia Pacific) - +44(0)-20-7982-2176</p>
+</section>
+
+<section>
+	<h2>Other Inquiries</h2>
+	<h3>Call our general number for assistance:</h3>
+	<p>+1-312-630-6000</p>
+</section>
+
+</div><!-- /.container -->
+</body>

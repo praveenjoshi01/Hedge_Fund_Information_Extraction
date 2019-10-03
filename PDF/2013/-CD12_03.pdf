@@ -1,0 +1,57 @@
+<html>
+<head>
+
+<style>
+h1,h2,h3,h4,h5,h6{font-family:"Nunito", Verdana, Arial, sans-serif;font-weight:400;line-height:1.2;color:#323232;margin:0;padding:0}
+h2{font-size:24px;font-size:2.4rem;color:#aacc00;text-transform:uppercase;margin-bottom:20px}
+h3{font-size:16px;font-size:1.2rem;color:#002244;margin-bottom:20px}
+</style>
+<title>FSMA - Error Page - Website</title>
+</head>
+
+<body>
+
+<h2>FSMA error</h2>
+
+<h3>
+
+<div class="field field-name-body">
+<p>Sorry, er is een probleem met de pagina die u probeert te raadplegen.</p>
+
+<p>U kan dit probleem signaleren via e-mail <a href="mailto:website@fsma.be?subject=FSMA error - Website">door HIER te klikken </a>. Mocht u specifiek iets zoeken, kan u gebruik maken van onze <a href="https://www.fsma.be/nl/search-page">zoekpagina</a>.</p>
+
+<p>Onze excuses voor het ongemak.</p>
+
+<p>FSMA</p>
+
+<p>
+<center><hr width="30%" /></center>
+</p>
+
+<div class="field field-name-body">
+<p>Désolé, un problème est survenu au niveau de la page que vous tentez de consulter.</p>
+
+<p>Vous pouvez signaler ce problème en envoyant un e-mail <a href="mailto:website@fsma.be?subject=FSMA error - Website">en cliquant ICI</a>. Si vous recherchez quelque chose de spécifique, vous pouvez utiliser notre <a href="https://www.fsma.be/fr/search-page">page de recherche</a>.</p>
+
+<p>Veuillez-nous excuser pour ce désagrément.</p>
+
+<p>FSMA</p>
+
+<p>
+<center><hr width="30%" /></center>
+</p>
+
+<div class="field field-name-body">
+<p>We’re sorry, there is a problem with the page you are trying to open.</p>
+
+<p>Please feel free to report this problem by email <a href="mailto:website@fsma.be?subject=FSMA error - Website">by clicking HERE</a>. Should you be looking for something in particular, why not use our <a href="https://www.fsma.be/en/search-page">search page</a>?</p>
+
+<p>We apologize for the inconvenience.</p>
+
+<p>FSMA</p>
+
+</h3>
+
+
+</body>
+</html>

@@ -1,0 +1,873 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#"  ng-app="PageApp">
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="format-detection" content="telephone=no" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/wp-content/themes/thornburg/public/img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/wp-content/themes/thornburg/public/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/wp-content/themes/thornburg/public/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/wp-content/themes/thornburg/public/img/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/wp-content/themes/thornburg/public/img/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="theme-color" content="#ffffff">
+    <title>PDF - Thornburg Investment Management</title>
+
+    
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- This site is optimized with the Yoast SEO Premium plugin v10.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.thornburg.com/pdf/" />
+<!-- Social Pug v.2.7.2 https://devpups.com/social-pug/ -->
+<meta property="og:locale" content="en_US"/>
+<meta property="og:type" content="article" />
+<meta property="og:title" content="PDF" />
+<meta property="og:description" content="" />
+<meta property="og:url"	content="https://www.thornburg.com/pdf/" />
+<meta property="og:site_name" content="Thornburg Investment Management" />
+<meta property="og:updated_time" content="2018-09-28T10:43:57+00:00" />
+<meta property="article:published_time" content="2018-09-04T14:27:35+00:00" />
+<meta property="article:modified_time" content="2018-09-28T10:43:57+00:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="PDF" />
+<meta name="twitter:description" content="" />
+<!-- Social Pug v.2.7.2 https://devpups.com/social-pug/ -->
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Organization","url":"https://www.thornburg.com/","sameAs":["https://www.facebook.com/thornburgfunds","https://www.linkedin.com/company/thornburg-investment-management","https://www.youtube.com/user/ThornburgInvestment","https://twitter.com/thornburgfunds"],"@id":"https://www.thornburg.com/#organization","name":"Thornburg Investment Management","logo":"https://s31379.pcdn.co/wp-content/uploads/home/images/thornburg-investment-management-logo.svg"}</script>
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.thornburg.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.thornburg.com/pdf/","name":"PDF"}}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//addsearch.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s31379.pcdn.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://s31379.pcdn.co/wp-includes/css/dist/block-library/style.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='dpsp-frontend-style-pro-css'  href='https://s31379.pcdn.co/wp-content/plugins/social-pug/assets/css/style-frontend-pro.css?ver=2.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='SD_main_css-css'  href='https://s31379.pcdn.co/wp-content/themes/thornburg/assets/style.min.css?ver=1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='thornburg-plugin-style-css'  href='https://s31379.pcdn.co/wp-content/mu-plugins/thornburg/style.css?ver=0.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='thornburg-plugin-autocomplete-css'  href='https://s31379.pcdn.co/wp-content/mu-plugins/thornburg/node_modules/jquery-autocomplete/jquery.autocomplete.css?ver=5.2.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://s31379.pcdn.co/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript'>
+			var dpsp_pin_button_data = {"pin_description_source":"image_alt_tag","button_position":"top_left","button_shape":"rectangular","minimum_image_width":"200","minimum_image_height":"200","show_button_text_label":"yes","button_text_label":"Save","button_share_behavior":"hover_image","pinterest_button_share_behavior":"post_image"}
+		
+</script>
+<script type='text/javascript' src='https://s31379.pcdn.co/wp-content/plugins/social-pug/assets/js/front-end-pro.js?ver=2.7.2'></script>
+<script type='text/javascript' src='https://s31379.pcdn.co/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/jq-sticky-anything.min.js?ver=2.1.1'></script>
+<script type='text/javascript' src='https://s31379.pcdn.co/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.10.1'></script>
+<link rel="alternate" type="application/json+oembed" href="https://www.thornburg.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thornburg.com%2Fpdf%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.thornburg.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thornburg.com%2Fpdf%2F&#038;format=xml" />
+
+			<script type="text/javascript">
+				//Rate my Post compatibility with autoreplace SVG from FontAwesome
+				window.FontAwesomeConfig = { autoReplaceSvg: false };
+			</script>
+		<style type="text/css" data-source="Social Pug">
+					@media screen and ( max-width : 720px ) {
+						#dpsp-floating-sidebar.dpsp-hide-on-mobile { display: none !important; }
+					}
+				
+					@media screen and ( max-width : 720px ) {
+						.dpsp-share-text.dpsp-hide-on-mobile { display: none !important; }
+					}
+				</style>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//<![CDATA[
+	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"spire"};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T4X7KHG');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+    <link rel="alternate" type="application/rss+xml" title="Thornburg Investment Management Feed" href="https://www.thornburg.com/feed/">
+    <script src="/wp-content/mu-plugins/thornburg/src/js/lib/modernizr.js"></script>
+    <script src="/wp-content/mu-plugins/thornburg/src/js/lib/bootstrap.bundle.min.js"></script>
+
+</head>
+
+<body class="page-template page-template-page-pdf page-template-page-pdf-php page page-id-505 page-pdf" >
+
+    <header role="banner" id="headerMain" class="container">
+        <div class="row">
+            <div class="header_wrapper clearfix col-12">
+                <div id="logo"><a href="/"><img src="/wp-content/themes/thornburg/src/images/logo/logo.svg" alt="Thornburg Investment Management"></a></div>
+                <div id="mobile_nav"><span class="icon-menu"></span></div>
+                <nav class="nav_bar">
+                    <ul class="social_menu">
+                        <li>
+                            <ul class="upper-menu">
+                                <li><a href="/registration/logon/">ADVISOR SIGN IN</a></li>
+                                <li class="li_shareholder_signin"><a href="https://www3.financialtrans.com/tf/FANWeb?tx=Disclaim&amp;cz=9190714171301201706">SHAREHOLDER SIGN IN</a></li>
+                                <li class="li_contact_us"><a href="/contact-us/">Contact us</a></li>
+                            </ul>
+                        </li>
+                        <!--<li class="social">
+                            <ul>
+                                <li><a href="https://www.facebook.com/thornburgfunds" target="_blank"><span class="icon-facebook"></span></a></li>
+                                <li><a href="https://www.twitter.com/thornburgfunds" target="_blank"><span class="icon-twitter"></span></a></li>
+                                <li><a href="https://www.youtube.com/user/ThornburgInvestment" target="_blank"><span class="icon-youtube"></span></a></li>
+                                <li><a href="https://www.linkedin.com/company/thornburg-investment-management" target="_blank"><span class="icon-linkedin"></span></a></li>
+                            </ul>
+                        </li>-->
+                        <li class="search">
+                            <div id="sb-search" class="sb-search">
+                                <form>
+                                    <!-- <input class="sb-search-input addsearch" placeholder="Search" type="text" name="search" id="search" data-addsearch-field="true" autocomplete="off" style="cursor: auto;"> -->
+                                    <input class="sb-search-input addsearch" placeholder="Search" type="text" name="search" id="search" />
+                                    <input class="sb-search-submit" type="submit" value="" />
+                                    <span class="sb-icon-search icon-search"></span>
+                                </form>
+                            </div>
+                            <div class="mobile-search">
+                                <form>
+                                    <input type="search" class="addsearch" name="search_m" placeholder="Search" data-addsearch-field="true" autocomplete="off" style="cursor: auto;">
+                                    <input type="submit" value="">
+                                    <span class="sb-icon-search icon-search"></span>
+                                </form>
+                            </div>
+                        </li>
+                    </ul>
+                                        <div id="menu" class="">
+                        <!-- Links needed for mobile touch screen dropdown menu -->
+                        <a href="#menu" title="Show navigation">Show navigation</a>
+                        <a href="#" title="Hide navigation">Hide navigation</a>
+                        <!-- for active pages add "current_page_item" class for the highlighted line to the parent li -->
+                        <ul id="menu-navigation" class="menu clearfix">
+                            <li class="menu-item menu-item-1 has-sub hideLi">
+                                <a href="https://www.thornburg.com/products-performance/" target="">Products & <br>Performance</a><h2 class="menu_toggle"></h2>                                <div class="clearfix sub-menu" >
+                                    <ul id="menu-main1-col1" class="sub_1"><li class="has-sub menu-mutual-funds"><a href="https://www.thornburg.com/products-performance/mutual-funds/">Mutual Funds</a><h2 class="menu_toggle"></h2>
+<ul class="sub-menu sub_2">
+	<li class="has-sub menu-equity-funds"><a href="https://www.thornburg.com/products-performance/mutual-funds/equity-funds/">Equity Funds</a><h2 class="menu_toggle"></h2>
+<ul class="sub-menu sub_3">
+		<li class="menu-investment-income-builder"><a href="https://www.thornburg.com/products-performance/mutual-funds/equity-funds/fib/">Investment Income Builder</a></li>
+		<li class="menu-global-opportunities"><a href="https://www.thornburg.com/products-performance/mutual-funds/equity-funds/fgo/">Global Opportunities</a></li>
+		<li class="menu-international-value"><a href="https://www.thornburg.com/products-performance/mutual-funds/equity-funds/fiv/">International Value</a></li>
+		<li class="menu-better-world-international-fund"><a href="https://www.thornburg.com/products-performance/mutual-funds/equity-funds/fbwi/">Better World International Fund</a></li>
+		<li class="menu-international-growth-fund"><a href="https://www.thornburg.com/products-performance/mutual-funds/equity-funds/fig/">International Growth Fund</a></li>
+		<li class="menu-developing-world"><a href="https://www.thornburg.com/products-performance/mutual-funds/equity-funds/fdw/">Developing World</a></li>
+		<li class="menu-value"><a href="https://www.thornburg.com/products-performance/mutual-funds/equity-funds/fv/">Value</a></li>
+		<li class="menu-core-growth"><a href="https://www.thornburg.com/products-performance/mutual-funds/equity-funds/fcg/">Core Growth</a></li>
+	</ul>
+</li>
+	<li class="has-sub menu-bond-funds"><a href="https://www.thornburg.com/products-performance/mutual-funds/bond-funds/">Bond Funds</a><h2 class="menu_toggle"></h2>
+<ul class="sub-menu sub_3">
+		<li class="menu-low-duration-income"><a href="https://www.thornburg.com/products-performance/mutual-funds/bond-funds/fldi/">Low Duration Income</a></li>
+		<li class="menu-limited-term-u-s-government"><a href="https://www.thornburg.com/products-performance/mutual-funds/bond-funds/fgov/">Limited Term U.S. Government</a></li>
+		<li class="menu-limited-term-income"><a href="https://www.thornburg.com/products-performance/mutual-funds/bond-funds/fli/">Limited Term Income</a></li>
+		<li class="menu-strategic-income"><a href="https://www.thornburg.com/products-performance/mutual-funds/bond-funds/fsi/">Strategic Income</a></li>
+		<li class="menu-low-duration-municipal"><a href="https://www.thornburg.com/products-performance/mutual-funds/bond-funds/fldm/">Low Duration Municipal</a></li>
+		<li class="menu-limited-term-municipal"><a href="https://www.thornburg.com/products-performance/mutual-funds/bond-funds/flm/">Limited Term Municipal</a></li>
+		<li class="menu-intermediate-municipal"><a href="https://www.thornburg.com/products-performance/mutual-funds/bond-funds/fim/">Intermediate Municipal</a></li>
+		<li class="menu-california-limited-term-municipal"><a href="https://www.thornburg.com/products-performance/mutual-funds/bond-funds/fca/">California Limited Term Municipal</a></li>
+		<li class="menu-new-mexico-intermediate-municipal"><a href="https://www.thornburg.com/products-performance/mutual-funds/bond-funds/fnm/">New Mexico Intermediate Municipal</a></li>
+		<li class="menu-new-york-intermediate-municipal"><a href="https://www.thornburg.com/products-performance/mutual-funds/bond-funds/fny/">New York Intermediate Municipal</a></li>
+		<li class="menu-strategic-municipal-income"><a href="https://www.thornburg.com/products-performance/mutual-funds/bond-funds/fsm/">Strategic Municipal Income</a></li>
+	</ul>
+</li>
+	<li class="has-sub menu-alternative-funds"><a href="https://www.thornburg.com/products-performance/mutual-funds/alternative-funds/">Alternative Funds</a><h2 class="menu_toggle"></h2>
+<ul class="sub-menu sub_3">
+		<li class="menu-long-short-equity"><a href="https://www.thornburg.com/products-performance/mutual-funds/alternative-funds/flse/">Long/Short Equity</a></li>
+	</ul>
+</li>
+	<li class="menu-prices-performance"><a href="https://www.thornburg.com/products-performance/mutual-funds/prices/">Prices &#038; Performance</a></li>
+	<li class="menu-dividends-capital-gains"><a href="https://www.thornburg.com/products-performance/mutual-funds/capital-gains/">Dividends &#038; Capital Gains</a></li>
+	<li class="menu-tax-information"><a href="https://www.thornburg.com/products-performance/mutual-funds/tax-information/">Tax Information</a></li>
+	<li class="menu-shareholder-sign-in"><a target="_blank" rel="noopener noreferrer" href="https://www3.financialtrans.com/tf/FANWeb?tx=Disclaim&#038;cz=9190714171301201706">Shareholder Sign In</a></li>
+	<li class="menu-shareholder-faqs"><a href="https://www.thornburg.com/products-performance/mutual-funds/shareholder-faqs/">Shareholder FAQs</a></li>
+</ul>
+</li>
+</ul>                                    <div class="border"></div>
+                                    <ul id="menu-main1-col2" class="sub_1"><li class="has-sub menu-separately-managed-accounts"><a href="https://www.thornburg.com/products-performance/separately-managed-accounts/">Separately Managed Accounts</a><h2 class="menu_toggle"></h2>
+<ul class="sub-menu sub_2">
+	<li class="has-sub menu-equity-strategies"><a href="https://www.thornburg.com/products-performance/separately-managed-accounts/equity-strategies/">Equity Strategies</a><h2 class="menu_toggle"></h2>
+<ul class="sub-menu sub_3">
+		<li class="menu-international-adr"><a href="https://www.thornburg.com/products-performance/separately-managed-accounts/equity-strategies/sia/">International ADR</a></li>
+		<li class="menu-international-growth-adr"><a href="https://www.thornburg.com/products-performance/separately-managed-accounts/equity-strategies/siga/">International Growth ADR</a></li>
+		<li class="menu-u-s-equity"><a href="https://www.thornburg.com/products-performance/separately-managed-accounts/equity-strategies/suse/">U.S. Equity</a></li>
+		<li class="menu-all-cap-growth"><a href="https://www.thornburg.com/products-performance/separately-managed-accounts/equity-strategies/scg/">All Cap Growth</a></li>
+	</ul>
+</li>
+	<li class="has-sub menu-bond-strategies"><a href="https://www.thornburg.com/products-performance/separately-managed-accounts/bond-strategies/">Bond Strategies</a><h2 class="menu_toggle"></h2>
+<ul class="sub-menu sub_3">
+		<li class="menu-limited-term-u-s-government"><a href="https://www.thornburg.com/products-performance/separately-managed-accounts/bond-strategies/sgov/">Limited Term U.S. Government</a></li>
+		<li class="menu-limited-term-income"><a href="https://www.thornburg.com/products-performance/separately-managed-accounts/bond-strategies/sli/">Limited Term Income</a></li>
+		<li class="menu-limited-term-municipal"><a href="https://www.thornburg.com/products-performance/separately-managed-accounts/bond-strategies/slm/">Limited Term Municipal</a></li>
+		<li class="menu-intermediate-term-municipal"><a href="https://www.thornburg.com/products-performance/separately-managed-accounts/bond-strategies/sim/">Intermediate Term Municipal</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-institutional-strategies"><a href="https://www.thornburg.com/products-performance/institutional-strategies/">Institutional Strategies</a></li>
+</ul>                                    <div class="border"></div>
+                                    <ul id="menu-main1-col3" class="sub_1"><li class="has-sub menu-ucits-funds"><a href="https://www.thornburg.com/products-performance/ucits-funds/">UCITS Funds</a><h2 class="menu_toggle"></h2>
+<ul class="sub-menu sub_2">
+	<li class="has-sub menu-equity-funds"><a href="https://www.thornburg.com/products-performance/ucits-funds/equity-funds/">Equity Funds</a><h2 class="menu_toggle"></h2>
+<ul class="sub-menu sub_3">
+		<li class="menu-investment-income-builder"><a href="https://www.thornburg.com/products-performance/ucits-funds/equity-funds/uib/">Investment Income Builder</a></li>
+		<li class="menu-global-opportunities"><a href="https://www.thornburg.com/products-performance/ucits-funds/equity-funds/ugo/">Global Opportunities</a></li>
+		<li class="menu-international-equity"><a href="https://www.thornburg.com/products-performance/ucits-funds/equity-funds/ugex/">International Equity</a></li>
+		<li class="menu-developing-world"><a href="https://www.thornburg.com/products-performance/ucits-funds/equity-funds/udw/">Developing World</a></li>
+	</ul>
+</li>
+	<li class="has-sub menu-bond-funds"><a href="https://www.thornburg.com/products-performance/ucits-funds/bond-funds/">Bond Funds</a><h2 class="menu_toggle"></h2>
+<ul class="sub-menu sub_3">
+		<li class="menu-limited-term-income"><a href="https://www.thornburg.com/products-performance/ucits-funds/bond-funds/uli/">Limited Term Income</a></li>
+		<li class="menu-strategic-income"><a href="https://www.thornburg.com/products-performance/ucits-funds/bond-funds/usi/">Strategic Income</a></li>
+	</ul>
+</li>
+	<li class="has-sub menu-alternative-funds"><a href="https://www.thornburg.com/products-performance/ucits-funds/alternative-funds/">Alternative Funds</a><h2 class="menu_toggle"></h2>
+<ul class="sub-menu sub_3">
+		<li class="menu-long-short-equity"><a href="https://www.thornburg.com/products-performance/ucits-funds/alternative-funds/ulse/">Long/Short Equity</a></li>
+	</ul>
+</li>
+	<li class="menu-prices-performance"><a href="https://www.thornburg.com/products-performance/ucits-funds/prices/">Prices &#038; Performance</a></li>
+</ul>
+</li>
+</ul>                                </div>
+                                <div class="bumper sub-menu"></div>
+                            </li>
+                            <li class="menu-item menu-item-2 has-sub hideLi">
+                                <a href="https://www.thornburg.com/insight-commentary/" target="">Insight & <br>Commentary</a><h2 class="menu_toggle"></h2>                                <div class="clearfix sub-menu">
+                                    <ul id="menu-main2-col1" class="sub_1"><li class="has-sub menu-manager-commentary"><a href="https://www.thornburg.com/insight-commentary/manager-commentary/">Manager Commentary</a><h2 class="menu_toggle"></h2>
+<ul class="sub-menu sub_2">
+	<li class="menu-mutual-funds"><a href="https://www.thornburg.com/insight-commentary/manager-commentary/mutual-funds-commentary/">Mutual Funds</a></li>
+	<li class="menu-separately-managed-accounts"><a href="https://www.thornburg.com/insight-commentary/manager-commentary/separately-managed-accounts-commentary/">Separately Managed Accounts</a></li>
+	<li class="menu-institutional-strategies"><a href="https://www.thornburg.com/insight-commentary/manager-commentary/institutional-strategies-commentary/">Institutional Strategies</a></li>
+	<li class="menu-ucits"><a href="https://www.thornburg.com/insight-commentary/manager-commentary/ucits-commentary/">UCITS</a></li>
+</ul>
+</li>
+</ul>                                    <div class="border"></div>
+                                    <ul id="menu-main2-col2" class="sub_1"><li class="has-sub menu-global-perspectives-blog"><a href="https://www.thornburg.com/insight-commentary/global-perspectives/">Global Perspectives Blog</a><h2 class="menu_toggle"></h2>
+<ul class="sub-menu sub_2">
+	<li class="menu-emerging-views"><a href="https://www.thornburg.com/insight-commentary/global-perspectives/emerging-views/">Emerging Views</a></li>
+	<li class="menu-market-insights"><a href="https://www.thornburg.com/insight-commentary/global-perspectives/market-insights/">Market Insights</a></li>
+</ul>
+</li>
+<li class="menu-the-quick-take"><a href="https://www.thornburg.com/insight-commentary/the-quick-take/">The Quick Take</a></li>
+<li class="menu-articles-white-papers"><a href="https://www.thornburg.com/insight-commentary/articles-white-papers/">Articles &#038; White Papers</a></li>
+</ul>                                    <div class="border"></div>
+                                    <ul id="menu-main2-col3" class="sub_1"><li class="menu-videos"><a href="https://www.thornburg.com/insight-commentary/videos/">Videos</a></li>
+<li class="menu-in-the-news"><a href="https://www.thornburg.com/insight-commentary/news/">In The News</a></li>
+<li class="menu-building-your-business"><a href="https://www.thornburg.com/insight-commentary/building-your-business/">Building Your Business</a></li>
+</ul>                                </div>
+                                <div class="bumper sub-menu"></div>
+                            </li>
+                            <li class="menu-item menu-item-3 has-sub hideLi">
+                                <a href="https://www.thornburg.com/forms-literature/" target="">Forms & <br>Literature</a><h2 class="menu_toggle"></h2>                                <div class="clearfix sub-menu">
+                                    <ul id="menu-main3-col1" class="sub_1"><li class="has-sub menu-product-literature"><a href="https://www.thornburg.com/forms-literature/product-literature/">Product Literature</a><h2 class="menu_toggle"></h2>
+<ul class="sub-menu sub_2">
+	<li class="menu-mutual-funds"><a href="https://www.thornburg.com/forms-literature/product-literature/mutual-funds/">Mutual Funds</a></li>
+	<li class="menu-separately-managed-accounts"><a href="https://www.thornburg.com/forms-literature/product-literature/separately-managed-accounts/">Separately Managed Accounts</a></li>
+	<li class="menu-ucits"><a href="https://www.thornburg.com/forms-literature/product-literature/ucits-funds/">UCITS</a></li>
+</ul>
+</li>
+</ul>                                    <div class="border"></div>
+                                    <ul id="menu-main3-col2" class="sub_1"><li class="has-sub menu-shareholder-forms"><a href="https://www.thornburg.com/forms-literature/shareholder-forms/">Shareholder Forms</a><h2 class="menu_toggle"></h2>
+<ul class="sub-menu sub_2">
+	<li class="menu-mutual-funds"><a href="/forms-literature/shareholder-forms/?filter=mutual-funds">Mutual Funds</a></li>
+	<li class="menu-ucits"><a href="/forms-literature/shareholder-forms/?filter=ucits">UCITS</a></li>
+	<li class="menu-financial-advisors"><a href="/forms-literature/shareholder-forms/?filter=advisors">Financial Advisors<span class="icon-lock"></span></a></li>
+</ul>
+</li>
+</ul>                                    <div class="border"></div>
+                                    <ul id="menu-main3-col3" class="sub_1"><li class="has-sub menu-order-literature"><a href="https://www.thornburg.com/forms-literature/order-literature/advisor-literature/">Order Literature</a><h2 class="menu_toggle"></h2>
+<ul class="sub-menu sub_2">
+	<li class="menu-financial-advisors"><a href="https://www.thornburg.com/forms-literature/order-literature/advisor-literature/">Financial Advisors <span class="icon-lock"></span></a></li>
+	<li class="menu-retirement-advisors"><a href="https://www.thornburg.com/forms-literature/order-literature/advisor-literature/retirement-literature/">Retirement Advisors<span class="icon-lock"></span></a></li>
+</ul>
+</li>
+</ul>                                </div>
+                                <div class="bumper sub-menu"></div>
+                            </li>
+                            <li class="menu-item menu-item-4 has-sub hideLi">
+                                <a href="https://www.thornburg.com/financial-professionals/" target="">Financial <br>Professionals</a><h2 class="menu_toggle"></h2>                                <div class="clearfix sub-menu">
+                                    <ul id="menu-main4-col1" class="sub_1"><li class="menu-order-literature"><a href="https://www.thornburg.com/forms-literature/order-literature/advisor-literature/">Order Literature <span class="icon-lock"></span></a></li>
+<li class="menu-sales-ideas"><a href="https://www.thornburg.com/financial-professionals/sales-ideas/">Sales Ideas <span class="icon-lock"></span></a></li>
+<li class="menu-webcasts"><a href="https://www.thornburg.com/financial-professionals/webcasts/">Webcasts <span class="icon-lock"></span></a></li>
+<li class="menu-continuing-education"><a href="https://www.thornburg.com/financial-professionals/continuing-education/">Continuing Education <span class="icon-lock"></span></a></li>
+<li class="menu-breakpoint-schedule"><a href="https://www.thornburg.com/financial-professionals/breakpoint-schedule/">Breakpoint Schedule <span class="icon-lock"></span></a></li>
+<li class="menu-access-client-accounts"><a href="https://www.thornburg.com/financial-professionals/access-client-accounts/">Access Client Accounts</a></li>
+</ul>                                    <div class="border"></div>
+                                    <ul id="menu-main4-col2" class="sub_1"><li class="has-sub menu-global-distribution-team"><a href="https://www.thornburg.com/financial-professionals/global-distribution-team/">Global Distribution Team</a><h2 class="menu_toggle"></h2>
+<ul class="sub-menu sub_2">
+	<li class="menu-intermediary"><a href="https://www.thornburg.com/financial-professionals/global-distribution-team/intermediary-team/">Intermediary</a></li>
+	<li class="menu-offshore"><a href="https://www.thornburg.com/financial-professionals/global-distribution-team/offshore-team/">Offshore</a></li>
+	<li class="menu-institutional"><a href="https://www.thornburg.com/financial-professionals/global-distribution-team/institutional-team/">Institutional</a></li>
+	<li class="menu-international"><a href="https://www.thornburg.com/financial-professionals/global-distribution-team/international-team/">International</a></li>
+	<li class="menu-institutional-advisor"><a href="https://www.thornburg.com/financial-professionals/global-distribution-team/institutional-advisor/">Institutional Advisor</a></li>
+	<li class="menu-strategic-relationships"><a href="https://www.thornburg.com/financial-professionals/global-distribution-team/strategic-relationships/">Strategic Relationships</a></li>
+</ul>
+</li>
+</ul>                                    <div class="border"></div>
+                                    <ul id="menu-main4-col3" class="sub_1"><li class="menu-institutional-investors"><a href="https://www.thornburg.com/financial-professionals/institutional-investors/">Institutional Investors</a></li>
+<li class="menu-non-u-s-investors"><a href="https://www.thornburg.com/financial-professionals/non-us-investors/">Non-U.S. Investors</a></li>
+</ul>                                </div>
+                                <div class="bumper sub-menu"></div>
+                            </li>
+                            <li class="menu-item menu-item-5 has-sub hideLi">
+                                <a href="https://www.thornburg.com/our-firm/" target="">Our Firm</a><h2 class="menu_toggle"></h2>                                <div class="clearfix sub-menu">
+                                    <ul id="menu-main5-col1" class="sub_1"><li class="menu-about-us"><a href="https://www.thornburg.com/our-firm/">About Us</a></li>
+<li class="menu-capabilities"><a href="https://www.thornburg.com/our-firm/capabilities/">Capabilities</a></li>
+<li class="menu-shareholder-faqs"><a href="https://www.thornburg.com/products-performance/mutual-funds/shareholder-faqs/">Shareholder FAQs</a></li>
+</ul>                                    <div class="border"></div>
+                                    <ul id="menu-main5-col2" class="sub_1"><li class="menu-vision-mission-values"><a href="https://www.thornburg.com/our-firm/vision-mission-values/">Vision Mission Values</a></li>
+<li class="has-sub menu-management-team"><a href="https://www.thornburg.com/our-firm/management-team/">Management Team</a><h2 class="menu_toggle"></h2>
+<ul class="sub-menu sub_2">
+	<li class="menu-executive-management"><a href="https://www.thornburg.com/our-firm/management-team/">Executive Management</a></li>
+	<li class="menu-equity-team"><a href="https://www.thornburg.com/our-firm/management-team/equity-team/">Equity Team</a></li>
+	<li class="menu-fixed-income-team"><a href="https://www.thornburg.com/our-firm/management-team/fixed-income-team/">Fixed Income Team</a></li>
+</ul>
+</li>
+</ul>                                    <div class="border"></div>
+                                    <ul id="menu-main5-col3" class="sub_1"><li class="menu-our-campus"><a href="https://www.thornburg.com/our-firm/our-campus/">Our Campus</a></li>
+<li class="menu-philanthropy"><a href="https://www.thornburg.com/our-firm/philanthropy/">Philanthropy</a></li>
+<li class="menu-careers"><a target="_blank" rel="noopener noreferrer" href="https://chk.tbe.taleo.net/chk05/ats/careers/v2/jobSearch?org=THORNBURG&#038;cwsV&#038;cws=40">Careers</a></li>
+<li class="menu-diversity-inclusion"><a href="https://www.thornburg.com/our-firm/diversity-inclusion/">Diversity &#038; Inclusion</a></li>
+</ul>                                </div>
+                                <div class="bumper sub-menu" style="width: 747px; margin-left: -373.5px; display: none;"></div>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+
+    </header>
+    <section id="panel">
+        <div class="underlay"></div>
+    <nav id="breadcrumbs">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <ul>
+                        <li><a href="/">Home</a></li>
+                        <li>PDF</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <main role="document" id="mainContent">
+                <div class="container" id="pagePdf" data-redirect="/wp-content/uploads/home/pdfs/TH306_C-prospectus-retail.pdf">
+            <div class="row">
+                <div class="col-12">
+                    <div class="loader text-center mt-10 mb-10"><img src="/wp-content/themes/thornburg/src/img/svg/loader.svg" alt="Locating document"><br><span class="text">Please wait while we locate your document...</span></div>
+                </div>
+            </div>
+        </div>
+    </main><!--/role="document"-->
+
+    <section class="container mb-4">
+        <div class="row">
+            <div class="col-12">
+                <div class="page_disclosure_wrapper sticky-push-up" >
+                    <div class="disclosure_header">
+						<strong>Important Information</strong><br>
+													<em class="js---disclosures" data-disclosures="5"></em>
+						                    </div>
+                    
+                    <div class="disclosure_footer">
+                        <div id="page_disclosure" class="reveal_disclosure">Show More</div>
+                        <div class="disclosure_shadow"></div>
+					</div>
+											<div class="disclosure js---disclosures" data-disclosures="10012,222,298,57,500"></div>
+					                </div>
+            </div>
+        </div>
+    </section>
+                
+        <footer class="sticky-push-up">
+            <div class="footer_inner clearfix container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="menu">
+                            <ul id="menu-footer-col1" class="menu-navigation"><li class="menu-products-performance"><a href="https://www.thornburg.com/products-performance/">Products &#038; Performance<span class="icon-arrow"></span></a></li>
+<li class="menu-insight-commentary"><a href="https://www.thornburg.com/insight-commentary/">Insight &#038; Commentary<span class="icon-arrow"></span></a></li>
+<li class="menu-forms-literature"><a href="https://www.thornburg.com/forms-literature/">Forms &#038; Literature<span class="icon-arrow"></span></a></li>
+<li class="menu-financial-professionals"><a href="https://www.thornburg.com/financial-professionals/">Financial Professionals<span class="icon-arrow"></span></a></li>
+<li class="menu-our-firm"><a href="https://www.thornburg.com/our-firm/">Our Firm<span class="icon-arrow"></span></a></li>
+</ul>                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="contact">
+                            <h3><a href="/contact-us/">Contact</a></h3>
+<div>
+<ul>
+<li><strong>Thornburg Investment Management, Inc.</strong></li>
+<li>2300 North Ridgetop Road<br>Santa Fe, NM 87506</li>
+<li><a href="tel:+18008470200">800.847.0200</a></li>
+<li><a href="/contact-us/">Contact Us</a></li>
+</ul>
+<ul>
+<li><strong>Thornburg Investment Management Ltd.</strong></li>
+<li>Berkeley Square House<br>Berkeley Square<br>London W1J6BD<br>United Kingdom</li>
+<li><a href="tel:+442078876279">+44 20 7887 62 79</a></li>
+<li><a href="/contact-us/#NonUS" class="js---contacturl">Contact Us</a></li>
+</ul>
+</div>                        </div>  
+                    </div>
+                    <div class="col-md-4">
+                        <div class="ealert">
+                            <div>
+                                <h3><a href="/registration/marketing-preferences/">E-Alert</a></h3>
+<p>Submit your email address below to see  all available E-Alert preferences, personalize subscriptions or create a new account.</p>                                <form action="/registration/marketing-preferences/" class="ealert-footer">
+                                    <input type="email" name="email" placeholder="Enter email address" value="" class="form-control input-email" required>
+                                    <input type="submit" value="SUBMIT" class="btn btn--gold">
+                                </form>
+                            </div>
+                            <nav>
+                                <ul class="social_nav">
+                                    <li><a class="icon-facebook" href="https://www.facebook.com/thornburgfunds" target="_blank"></a></li><li><a class="icon-twitter" href="https://twitter.com/thornburgfunds" target="_blank"></a></li><li><a class="icon-youtube" href="https://www.youtube.com/user/ThornburgInvestment" target="_blank"></a></li><li><a class="icon-linkedin" href="https://www.linkedin.com/company/thornburg-investment-management" target="_blank"></a></li>                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer_bottom">
+                <div class="footer_bottom_inner container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="copy">©2019 Thornburg Investment Management</div>
+                            <ul id="menu-footer-hoz" class="policy"><li class="menu-online-privacy-and-cookie-policy"><a href="https://www.thornburg.com/legal/online-privacy-and-cookie-policy/">Online Privacy and Cookie Policy</a></li>
+<li class="menu-data-protection-privacy-notice"><a href="https://www.thornburg.com/legal/data-protection-privacy-notice/">Data Protection Privacy Notice</a></li>
+<li class="menu-corporate-policies"><a href="https://www.thornburg.com/legal/corporate-policies/">Corporate Policies</a></li>
+</ul>                        </div>
+                    </div>              
+                </div>
+            </div>
+        </footer>
+    </section><!-- end #panel -->
+
+    <!-- Notice: Cookies 
+    <seciton class="notice-cookies notice-cookies--hidden">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                                        <div class="exit"><i class="far fa-times-circle"></i></div>
+                </div>
+            </div>
+        </div>
+    </seciton>
+-->
+    <!-- Dynamic Modals: Spire -->
+    <div class="modal" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <div class="modal-title"></div>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <i class="far fa-times"></i>
+                    </button>
+                </div>
+                <div class="modal-body text-center">
+                    <div class="loader text-center"><img src="/wp-content/themes/thornburg/src/img/svg/loader.svg" alt="Loading Video" class="img-loader"><br><span class="text">Loading Video...</span></div>
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe src="" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed embed-responsive-item" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+                    </div>
+                    <div class="disclosure">
+                        <div class="dis-btn"><span class="off">Show</span><span class="on">Hide</span> Important Information</div>
+                        <div class="dis-content"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal" id="audioModal" tabindex="-1" role="dialog" aria-labelledby="audioModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <div class="modal-title"></div>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <i class="far fa-times"></i>
+                    </button>
+                </div>
+                <div class="modal-body text-center">
+                    <div class="loader text-center"><img src="/wp-content/themes/thornburg/src/img/svg/loader.svg" alt="Loading Video" class="img-loader"><br><span class="text">Loading Audio...</span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal" id="inlineModal" tabindex="-1" role="dialog" aria-labelledby="inlineModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <div class="modal-title">...</div>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <i class="far fa-times"></i>
+                    </button>
+                </div>
+                <div class="modal-body wywiwyg">
+                    ...
+                </div>
+            </div>
+        </div>
+	</div>
+	
+	<script type="text/javascript">
+		//if the user has clicked on a search result, and then returns to this page using the backbutton, there will be a hash that makes addsearch open the results again, only it will be displaced because of the flyout search box. so, drop the hash.
+		if (location.hash) {
+			var r = /\baddsearch=[^&]+/i;
+			var t = r.exec(location.hash);
+			if (t) {
+				location.hash = location.hash.replace(t[0], "");
+			}
+		}
+	</script>
+	<script type='text/javascript' src='https://addsearch.com/js/?key=18c2738cebe328789d3649473f048f28'></script>
+    <!-- End Modal Code -->
+    <script type="text/javascript">
+<!--
+if (document.cookie.match(new RegExp('(^| |;)gdpr-popup=accepted'))) {
+	piAId = '72432';
+	piCId = '1436';
+	piHostname = 'pi.pardot.com';
+
+	(function() {
+		function async_load(){
+			var s = document.createElement('script'); s.type = 'text/javascript';
+			s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+			var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+		}
+		if(window.attachEvent) { window.attachEvent('onload', async_load); }
+		else { window.addEventListener('load', async_load, false); }
+	})();
+}
+-->
+</script>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4X7KHG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script type='text/javascript' src='https://addsearch.com/js/?key=18c2738cebe328789d3649473f048f28'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sticky_anything_engage = {"element":".sidebar-sticky","topspace":"20","minscreenwidth":"768","maxscreenwidth":"999999","zindex":"1","legacymode":"","dynamicmode":"","debugmode":"","pushup":"footer","adminbar":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s31379.pcdn.co/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/stickThis.js?ver=2.1.1'></script>
+<script type='text/javascript' src='https://s31379.pcdn.co/wp-content/themes/thornburg/assets/script.min.js?ver=1.3'></script>
+<script type='text/javascript' src='https://s31379.pcdn.co/wp-content/mu-plugins/thornburg/public/js/main.js?ver=0.1.3'></script>
+<script type='text/javascript' src='https://s31379.pcdn.co/wp-includes/js/wp-embed.min.js?ver=5.2.3'></script>
+		<div class="modal" id="gdpr-consent" tabindex="-1" role="dialog" aria-labelledby="gdpr-consentLabel" aria-hidden="true" data-backdrop="false" >
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h5 class="modal-title" id="gdpr-consentLabel"></h5>
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+							<span aria-hidden="true"><i class="far fa-times"></i></span>
+						</button>
+					</div>
+					<div class="modal-body" style="text-align: left;">
+							        <div class="popup-content">
+	                <p>We use cookies to give you the best experience on our website. Some are necessary to make everything work while others are optional and are there to make things more convenient for you. You can read more details in our <a href="/legal/online-privacy-and-cookie-policy/">cookie policy</a>.</p>
+	        </div>
+	        <div class="popup-buttons">
+	            <button class="btn btn--gold popup-accept">Accept All Optional Cookies</button>
+						            <button class="btn btn--pale-gold popup-decline">Decline All Optional Cookies</button>
+		        	        </div>
+	        	            <div class="popup-footer">
+	                <p><a href="/registration/marketing-preferences/">Cookie Preferences</a></p>
+	            </div>
+	        	    					</div>
+				</div>
+			</div>
+		</div>
+				<div style="display: none;">
+			<a href="#" data-toggle="modal" data-target="#gdpr-consent" ></a>		</div>
+		<script type="text/javascript">
+			(function() {
+								if (!document.cookie.match(new RegExp('(^| |;)gdpr-popup=(accepted|declined)'))) {
+					$('a[data-toggle="modal"][data-target="#gdpr-consent"]').click();
+				}
+						})();
+		</script>
+		        <script src="/wp-content/mu-plugins/thornburg/src/libraries/bootstrap-notify/bootstrap-notify.min.js"></script>
+    <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+    <script src="/wp-content/mu-plugins/thornburg/src/libraries/maphilight/current/jquery.maphilight.js"></script>
+
+    <script>
+        window.$ = window.jQuery;
+        $(function () {
+
+        var tbFile = '/wp-content/themes/thornburg/data/disclosures.php'
+        
+        var tbSectionDisclosures = {
+            disData: '',
+            setDisclosures: function() {
+                var that = this;
+                $('.js---sectiondisclosures').each(function( index ) {
+                    var string  = $(this).attr('data-sectiondisclosures') || "";
+                    // console.log('do:'+string); //test
+                    var temp = '';
+                    if (string.indexOf(',') > -1) { 
+                        var disArray = string.split(',');
+                        var i;
+                        for (i = 0; i < disArray.length; i++) { 
+                            var x = _.findIndex(that.disData, function(o) { return o.id == disArray[i]; });
+                            // temp = temp + '<p data-did="'+that.disData[x].id+'">[' + that.disData[x].id + ']' + that.disData[x].html + '</p>'; //test
+                            if (x >= 0) {
+                                temp = temp + '<p data-did="'+that.disData[x].id+'">' + that.disData[x].html + '</p>';
+                            }
+                            
+                        }
+                    }
+                    else {
+                        //single
+                        var x = _.findIndex(that.disData, function(o) { return o.id == string; });
+                        // temp = temp + '<p data-did="'+that.disData[x].id+'">[' + that.disData[x].id + ']' + that.disData[x].html + '</p>'; //test
+                        if (x >= 0) {
+                            temp = temp + '<p data-did="'+that.disData[x].id+'">' + that.disData[x].html + '</p>';
+                        }
+                    }
+                        
+                    $(this).append(temp);
+
+                });
+
+                this.bindActions();
+            },
+            getData: function() {
+                var that = this;
+
+                var config = {
+                    headers: {
+                        // 'X-AUTH-TOKEN': tbApiToken,
+                        'Accept': '*/*',
+                        'Content-Type': 'application/json'
+                    }
+                };
+
+                ///Prod
+                axios.get(tbFile
+                // that.query
+                , config)
+                .then(function (response) {
+                    // console.log(response);
+                    that.disData = response.data.data;
+                    // // console.log(that.disData);
+                    that.setDisclosures();
+                })
+                .catch(function (error) {
+                    console.log(error);
+                    that.bindActions();
+                });
+            },
+            bindActions: function() {
+
+                //Section Disclosures
+                $(".reveal_disclosure2").on('click', function() {
+                    var text = $(this).text();
+                    $(this).text(
+                        text == "Show More" ? "Show Less" : "Show More");
+                    if (text == "Show More") {
+                        var h = $(this).parent().siblings('.disclosure').height();
+                        $(this).closest('.section_disclosure').css('max-height',h*2);
+                    } else {
+                        $(this).closest('.section_disclosure').css('max-height','');
+                    }
+                });
+
+            },
+            init: function() {
+                this.getData();
+            }
+        };
+        tbSectionDisclosures.init();
+
+
+        });            
+    </script>
+
+<!--- TEMP: INLINE -->
+<script>
+    $(document).ready(function () {
+        $("#sb-search > form, .mobile-search > form").submit(function () {
+            var val = $(this).find("#search, input[name=search_m]").val();
+            window.location.href = "/search/?addsearch=" + encodeURIComponent(val);
+            return false;
+        });
+
+        $("span.sb-icon-search.icon-search").click(function () {
+            var input = $("#search").val();
+            if (input) {
+                console.log("has value");
+                window.location.href = "/search/?addsearch=" + encodeURIComponent(input);
+            }
+        });
+
+	}); //temp-extend onload to bottom
+	
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        
+        // var tbApiToken = 'zzz';
+        var tbFile = '/wp-content/themes/thornburg/data/disclosures.php'
+        
+        var tbDisclosures = {
+            disData: '',
+            setDisclosures: function() {
+                var that = this;
+                $('.js---disclosures').each(function( index ) {
+                    var string  = $(this).attr('data-disclosures') || "";
+                    // console.log('do:'+string); //test
+                    var temp = '';
+                    if (string.indexOf(',') > -1) { 
+                        var disArray = string.split(',');
+                        var i;
+                        for (i = 0; i < disArray.length; i++) { 
+                            var x = _.findIndex(that.disData, function(o) { return o.id == disArray[i]; });
+                            // temp = temp + '<p data-did="'+that.disData[x].id+'">[' + that.disData[x].id + ']' + that.disData[x].html + '</p>'; //test
+                            if (x >= 0) {
+                                temp = temp + '<p data-did="'+that.disData[x].id+'">' + that.disData[x].html + '</p>';
+                            }
+                            
+                        }
+                    }
+                    else {
+                        //single
+                        var x = _.findIndex(that.disData, function(o) { return o.id == string; });
+                        // temp = temp + '<p data-did="'+that.disData[x].id+'">[' + that.disData[x].id + ']' + that.disData[x].html + '</p>'; //test
+                        if (x >= 0) {
+                            temp = temp + '<p data-did="'+that.disData[x].id+'">' + that.disData[x].html + '</p>';
+                        }
+                    }
+                        
+                    $(this).append(temp);
+
+                });
+
+                this.bindActions();
+            },
+            getData: function() {
+                var that = this;
+
+                var config = {
+                    headers: {
+                        // 'X-AUTH-TOKEN': tbApiToken,
+                        'Accept': '*/*',
+                        'Content-Type': 'application/json'
+                    }
+                };
+
+                ///Prod
+                axios.get(tbFile
+                // that.query
+                , config)
+                .then(function (response) {
+                    // console.log(response);
+                    that.disData = response.data.data;
+                    // // console.log(that.disData);
+                    that.setDisclosures();
+                })
+                .catch(function (error) {
+                    console.log(error);
+                    that.bindActions();
+                });
+            },
+            bindActions: function() {
+
+                var toggled = 0;
+                var height = 20;
+                var starting_height = "7.5rem";
+                var lastDisclosureId = '';
+
+                //show more
+                if ($('.page_disclosure_wrapper').length){
+                    if ($('.page_disclosure_wrapper .disclosure').outerHeight() > 75) {
+                        //show
+                        // console.log('do showmore::'+$('.page_disclosure_wrapper .disclosure').outerHeight()); //test
+                        $('.page_disclosure_wrapper .disclosure').css('height', starting_height);
+                        
+                    } else {
+                        // console.log('hide show more::'+$('.page_disclosure_wrapper .disclosure').outerHeight()); //test
+                        $('.page_disclosure_wrapper .disclosure_footer').hide();
+                    }
+                }
+
+                $(".reveal_disclosure").on('click', function() {
+                    // console.log(toggled);
+                    // calculate the accumulated height of 'p' of disclosure div you clicked.
+                    var obj = $(this).parent().next().children(); //find('p');
+                    $.each(obj, function(){
+                        height += $(this).outerHeight(true);
+                    });
+            
+                    // In case there are more than one disclosure in one page. Each reveal_disclosure div should have a different id.
+                    if($(this).attr('id') !== lastDisclosureId){
+                        if($(this).text() == 'Show More') toggled = 0;
+                        else toggled = 1;
+                    }
+            
+                    if(toggled === 0){
+                        toggled = 1;
+                        $(this).parent().next().animate({"height":height + 25}, 400);
+                        // console.log({"height":height});
+                        $(this).text('Show Less');
+                    } else {
+                        toggled = 0;
+                        $(this).parent().next().animate({"height":starting_height}, 400);
+                        $(this).text('Show More');
+                    }
+                    //lastDisclosureId = $(this).attr('id');
+                    // console.log("Last Disclosure Id: " + lastDisclosureId);
+                    height = 20;
+                });
+
+                $(window).on('resizeEnd', function(){
+                    if (toggled == 1) {
+                        // recalc height and adjust
+                        var newHeight = 45;
+                        var obj = $(".reveal_disclosure").parent().next().children();
+                        $.each(obj, function(){
+                            newHeight += $(this).outerHeight(true);
+                        });
+                        $(".reveal_disclosure").parent().next().animate({"height":newHeight}, 400);
+                    }
+                });
+
+            },
+            init: function() {
+                this.getData();
+            }
+        };
+        tbDisclosures.init();
+
+
+
+        //RCP JS
+        //$('#rcp_login_form label[for="rcp_user_login"]').append(' or Email');
+
+
+    });
+</script>
+<!-- END TEMP -->
+</body>
+</html>
+
